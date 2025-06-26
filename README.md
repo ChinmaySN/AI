@@ -1,4 +1,6 @@
 # 🧠 CancerNet - Breast Cancer Classification with CNN
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChinmaySN/Breast-Cancer-Classification-with-CNN/blob/main/CancerNet_Breast_Cancer_Classifier.ipynb)
+
 
 This project builds a Convolutional Neural Network (CNN) to classify breast cancer histology images as **Benign (0)** or **Malignant (1)** using the IDC_regular_ps50_idx5 dataset.
 
