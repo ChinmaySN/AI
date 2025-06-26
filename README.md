@@ -1,4 +1,8 @@
-# 🧠 CancerNet - Breast Cancer Classification with CNN
+<p align="center">
+  <img src="banner.png" alt="CancerNet Banner" width="80%">
+</p>
+
+# 🧠 Breast Cancer Classification with CNN
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChinmaySN/Breast-Cancer-Classification-with-CNN/blob/main/cancer.ipynb)
 
 
